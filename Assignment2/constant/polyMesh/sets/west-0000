@@ -1,0 +1,30 @@
+FoamFile
+{
+ version   2.0;
+ format    ascii;
+ class     faceSet;
+ location  "constant/polyMesh/sets";
+ object    west-0000;
+}
+19
+(
+ 14095
+ 14096
+ 14097
+ 14098
+ 14099
+ 14100
+ 14101
+ 14102
+ 14103
+ 14104
+ 14105
+ 14106
+ 14107
+ 14108
+ 14109
+ 14110
+ 14111
+ 14112
+ 14113
+)

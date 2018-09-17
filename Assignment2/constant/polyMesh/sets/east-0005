@@ -1,0 +1,30 @@
+FoamFile
+{
+ version   2.0;
+ format    ascii;
+ class     faceSet;
+ location  "constant/polyMesh/sets";
+ object    east-0005;
+}
+19
+(
+ 25055
+ 25056
+ 25057
+ 25058
+ 25059
+ 25060
+ 25061
+ 25062
+ 25063
+ 25064
+ 25065
+ 25066
+ 25067
+ 25068
+ 25069
+ 25070
+ 25071
+ 25072
+ 25073
+)
